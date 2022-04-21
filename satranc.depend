@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1611411450 source:c:\users\berka\onedrive\masaüstü\hasan satranç\satranc\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1611577816 source:c:\users\berka\onedrive\masaüstü\hasan satranç\chess\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1611582994 source:c:\users\berka\onedrive\masaüstü\dağınık c klasörüm\hasan satranç\chess\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

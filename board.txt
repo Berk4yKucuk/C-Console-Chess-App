@@ -1,0 +1,19 @@
+
+
+	8    BR  BK  BB  BQ  BG  BB  BK  BR  
+
+	7    BP  BP  BP  BP  BP  BP  BP  BP  
+
+	6    0   0   0   0   0   0   0   0   
+
+	5    0   0   0   0   0   0   0   0   
+
+	4    0   0   0   0   0   0   0   0   
+
+	3    0   0   0   0   0   0   0   0   
+
+	2    WP  WP  WP  WP  WP  WP  WP  WP  
+
+	1    WR  WK  WB  WQ  WG  WB  WK  WR  
+
+	     A   B   C   D   E   F   G   H
