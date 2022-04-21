@@ -1643,6 +1643,8 @@ void selectionBlack(char board[8][8], FILE *moves){
                 printf("\nPlease just select black pieces!!!...\n\n");
                 scanf("%c",&newline);
                 goto select;
+            // It has uploaded to github :)
+
         }
 
 }
