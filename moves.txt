@@ -1,0 +1,4 @@
+
+	Move : E2 WP -> E4 
+	Move : F7 BP -> F5 
+	Elimination : E4 WP -> F5 BP
